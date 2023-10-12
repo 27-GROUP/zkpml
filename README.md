@@ -1,7 +1,3 @@
-Of course! Below is a simple README.md for your encryption script:
-
----
-
 # SecureEncryption
 
 SecureEncryption is a Python script that provides a straightforward interface for RSA-AES hybrid encryption. It allows users to encrypt a message using a combination of RSA and AES-GCM encryption and subsequently decrypt it.
